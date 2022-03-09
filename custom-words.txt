@@ -2502,3 +2502,8 @@ Vuln
 IAASVM
 Quickbase
 Smartsheet
+galleryimage
+networkinterfaces
+storagecontainers
+virtualharddisks
+vippool

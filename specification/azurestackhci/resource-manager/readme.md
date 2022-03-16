@@ -44,7 +44,6 @@ directive:
       - operations.json
       - galleryImages.json
       - networkInterfaces.json
-      - storageContainers.json
       - virtualHardDisks.json
       - virtualMachines.json
       - virtualNetworks.json
@@ -60,7 +59,6 @@ These settings apply only when `--tag=package-preview-2021-07` is specified on t
 input-file:
   - Microsoft.AzureStackHCI/preview/2021-07-01-preview/galleryImages.json
   - Microsoft.AzureStackHCI/preview/2021-07-01-preview/networkInterfaces.json
-  - Microsoft.AzureStackHCI/preview/2021-07-01-preview/storageContainers.json
   - Microsoft.AzureStackHCI/preview/2021-07-01-preview/virtualHardDisks.json
   - Microsoft.AzureStackHCI/preview/2021-07-01-preview/virtualMachines.json
   - Microsoft.AzureStackHCI/preview/2021-07-01-preview/virtualNetworks.json

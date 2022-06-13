@@ -849,6 +849,8 @@ GIFs
 Gilbertese
 githubusercontent
 gitrepo
+githuboauth
+githuboauthcallback
 globalconfiguration
 Gloo
 gltf
@@ -2016,6 +2018,7 @@ storageaccount
 storageaccounts
 storagedatalake
 storageimportexport
+storagesku
 storagesources
 storagesync
 storagetarget
@@ -2405,9 +2408,6 @@ westindia
 Westlake
 westus
 WGXM
-whitelisted
-Whitelisting
-Whitelistings
 whitespaces
 Whois
 Widevine
@@ -2579,6 +2579,8 @@ Wargs
 featurizers
 Spearman's
 Qualys
+primingjob
+primingjobid
 operatorconnect
 servermetrics
 getent
@@ -2593,4 +2595,5 @@ Asana
 AppFigures
 Twilio
 getazresiliencystatus
+spaceallocationparameter
 cadl
